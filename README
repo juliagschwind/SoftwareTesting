@@ -1,6 +1,4 @@
-README
-
-This is a tool to measure the coverage of a test suite. It utilises Soot to instrument the tested code and calculate the coverage. 
+## This is a tool to measure the coverage of a test suite. It utilises Soot to instrument the tested code and calculate the coverage. 
 
 
 To generate the reports, please run the script called "part2.sh" which can be found in the folder "scripts". When you run it you
